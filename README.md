@@ -1,8 +1,7 @@
 # Fetch Rewards Data Fetcher
 
 ## 📌 Overview
-This is a native **Android app** built in **Kotlin** that retrieves data from the following API:  
-[Fetch Rewards Data](https://fetch-hiring.s3.amazonaws.com/hiring.json).  
+This is a native **Android app** built in **Kotlin** that retrieves data from the following API: [Fetch Rewards Data](https://fetch-hiring.s3.amazonaws.com/hiring.json).  
 It processes and displays the data in a structured, easy-to-read format.
 
 ## 🎯 Functionality 
