@@ -46,8 +46,8 @@ Click Run ▶️ in Android Studio
 <img width="472" alt="Screenshot 2025-03-01 at 3 30 42 PM" src="https://github.com/user-attachments/assets/6651571d-3a9a-4bf2-971d-47dd397105a5" />
 
 ## 📬 Contact 
-For questions or suggestions, reach out at:
-School Email: sgnayak2@illinois.edu
-Personal Email: sauravnayak51@gmail.com 
-Phone: +1 (217)255-0581
+For questions or suggestions, reach out to me at:
+- School Email: sgnayak2@illinois.edu
+- Personal Email: sauravnayak51@gmail.com 
+- Phone: +1 (217)255-0581
 
