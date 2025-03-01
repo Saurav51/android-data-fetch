@@ -12,7 +12,7 @@ It processes and displays the data in a structured, easy-to-read format.
 - Filters out items with blank or null names
 - Displays `listId` as section headers
 
-## Sorting Logic
+## ✅ Sorting Logic
 Data is sorted numerically to avoid string-based sorting issues. 
 
 ## 🚀 Setup Instructions
@@ -23,20 +23,20 @@ git clone https://github.com/yourusername/FetchRewardsApp.git
 cd FetchRewardsApp
 ```
 
-### **1️⃣ Open in Android Studio**
+### **2️⃣ Open in Android Studio**
 ```sh
 Open Android Studio
 Select "Open an Existing Project"
 Navigate to the cloned folder and open it
 ``` 
 
-### **1️⃣ Run the App**
+### **3️⃣ Run the App**
 ```sh
 Connect an emulator or a physical Android device
 Click Run ▶️ in Android Studio
 ``` 
 
-## Dependencies
+## 📚 Dependencies
 | **Libraries**  | **Purpose**    |
 |----------------|----------------|
 | Retrofit       | API calls      |
@@ -46,7 +46,7 @@ Click Run ▶️ in Android Studio
 ## 📷 Screenshot
 <img width="472" alt="Screenshot 2025-03-01 at 3 30 42 PM" src="https://github.com/user-attachments/assets/6651571d-3a9a-4bf2-971d-47dd397105a5" />
 
-## Contact 
+## 📬 Contact 
 For questions or suggestions, reach out at:
 School Email: sgnayak2@illinois.edu
 Personal Email: sauravnayak51@gmail.com 
