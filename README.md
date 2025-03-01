@@ -12,8 +12,8 @@ It processes and displays the data in a structured, easy-to-read format.
 - Filters out items with blank or null names
 - Displays `listId` as section headers
 
-## 📷 Screenshot
-<img width="472" alt="Screenshot 2025-03-01 at 3 30 42 PM" src="https://github.com/user-attachments/assets/6651571d-3a9a-4bf2-971d-47dd397105a5" />
+## Sorting Logic
+Data is sorted numerically to avoid string-based sorting issues. 
 
 ## 🚀 Setup Instructions
 
@@ -43,9 +43,8 @@ Click Run ▶️ in Android Studio
 | Gson           | JSON parsing   |
 | RecyclerView   | List display   |
 
-
-## Sorting Logic
-Data is sorted numerically to avoid string-based sorting issues. 
+## 📷 Screenshot
+<img width="472" alt="Screenshot 2025-03-01 at 3 30 42 PM" src="https://github.com/user-attachments/assets/6651571d-3a9a-4bf2-971d-47dd397105a5" />
 
 ## Contact 
 For questions or suggestions, reach out at:
