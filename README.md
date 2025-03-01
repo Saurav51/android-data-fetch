@@ -12,10 +12,8 @@ It processes and displays the data in a structured, easy-to-read format.
 - Filters out items with blank or null names
 - Displays `listId` as section headers
 
-## 📷 Screenshots
-| **Grouped View** | **Scrollable List** |
-|-----------------|-------------------|
-| ![Screenshot 1](relative/path/to/screenshot1.png) | ![Screenshot 2](relative/path/to/screenshot2.png) |
+## 📷 Screenshot
+<img width="472" alt="Screenshot 2025-03-01 at 3 30 42 PM" src="https://github.com/user-attachments/assets/6651571d-3a9a-4bf2-971d-47dd397105a5" />
 
 ## 🚀 Setup Instructions
 
